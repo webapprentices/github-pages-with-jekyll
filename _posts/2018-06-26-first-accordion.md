@@ -1,7 +1,7 @@
----
-title: "First Accordione"
+
+title: First Accordion
 date:  2018-06-26
----
+
 
 # Accordions rock!
 
